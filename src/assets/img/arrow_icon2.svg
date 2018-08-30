@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="审批概况" transform="translate(-357.000000, -41.000000)" fill="#D3DCE6">
+            <g id="Top-bar">
+                <g id="Group-3">
+                    <g id="Group-8" transform="translate(296.000000, 35.000000)">
+                        <g id="Group-18" transform="translate(61.000000, 6.000000)">
+                            <path d="M3.32891979,2.27518179 C3.69871133,1.86840002 4.2941856,1.86391597 4.66805344,2.27518179 L7.61969593,5.52207686 C8.36170702,6.33831127 8.0645381,7 6.95384772,7 L1.0431255,7 C-0.0666234047,7 -0.357478156,6.33032985 0.377277296,5.52207686 L3.32891979,2.27518179 Z" id="arrow" transform="translate(4.000000, 4.500000) scale(1, -1) translate(-4.000000, -4.500000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>审批统计</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="审批概况" transform="translate(-10.000000, -86.000000)" fill="#99A9BF">
+            <g id="Group-10" transform="translate(10.000000, 85.000000)">
+                <g id="Group-9">
+                    <path d="M14.2222222,1 L1.77777778,1 C0.8,1 0,1.8 0,2.77777778 L0,15.2222222 C0,16.2 0.8,17 1.77777778,17 L14.2222222,17 C15.2,17 16,16.2 16,15.2222222 L16,2.77777778 C16,1.8 15.2,1 14.2222222,1 L14.2222222,1 Z M14.2222222,7.4 L8.88888889,13.4444444 L5.33333333,9.88888889 L1.77777778,13.4444444 L1.77777778,10.7777778 L5.33333333,7.22222222 L8.88888889,10.7777778 L14.2222222,4.73333333 L14.2222222,7.4 L14.2222222,7.4 Z" id="审批统计"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
